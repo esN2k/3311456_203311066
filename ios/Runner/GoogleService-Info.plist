@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1032163149713-ft2htds8maorkdp87f9jjefogfdo6s8b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1032163149713-ft2htds8maorkdp87f9jjefogfdo6s8b</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1032163149713-8kl8h2jn1bpuu8s57jpk34m3uug1r6ad.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZVlqqpD5srnRGtVDFtQgc_hNFZylK7Gw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1032163149713</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>esen.chat.app</string>
+	<key>PROJECT_ID</key>
+	<string>esenchat</string>
+	<key>STORAGE_BUCKET</key>
+	<string>esenchat.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1032163149713:ios:420d2a131a711ed1d0fc30</string>
+</dict>
+</plist>

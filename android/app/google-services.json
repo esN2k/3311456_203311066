@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1032163149713",
+    "project_id": "esenchat",
+    "storage_bucket": "esenchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032163149713:android:347e85209e39a608d0fc30",
+        "android_client_info": {
+          "package_name": "esen.chat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032163149713-8kl8h2jn1bpuu8s57jpk34m3uug1r6ad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "esen.chat.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1032163149713-hanjhqa9kod227anl8qb2r2cl7icu1g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA95EFl1R10nLB8Dm7J6WYVkstuiQkTpNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032163149713-hanjhqa9kod227anl8qb2r2cl7icu1g6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1032163149713-ft2htds8maorkdp87f9jjefogfdo6s8b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "esen.chat.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
