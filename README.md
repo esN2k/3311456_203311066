@@ -10,3 +10,4 @@ Whether you're looking to stay in touch with family and friends, or simply want 
 flutter pub get
 flutter packages pub run build_runner build --delete-conflicting-outputs
 ```# 3311456_203311066
+https://play.google.com/store/apps/details?id=esen.chat.app&pli=1
